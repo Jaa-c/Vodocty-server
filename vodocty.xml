@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<river name="Bakovský potok">
+		<lg name="LG Velvary">
+			<date>26.09.2012 14:00</date>
+			<height>28</height>
+			<volume>0.41</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Balinka">
+		<lg name="LG Baliny">
+			<date>27.09.2012 15:46</date>
+			<height>5</height>
+			<volume>0.13</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Berounka">
+		<lg name="LG Plzeň-Bílá Hora">
+			<date>26.09.2012 14:10</date>
+			<height>96</height>
+			<volume>5.80</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Liblín">
+			<date>26.09.2012 14:10</date>
+			<height>36</height>
+			<volume>11.00</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Zbečno">
+			<date>26.09.2012 14:20</date>
+			<height>151</height>
+			<volume>-1</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Beroun B">
+			<date>26.09.2012 14:20</date>
+			<height>86</height>
+			<volume>13.16</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bezdrevský potok">
+		<lg name="LG Netolice">
+			<date>26.09.2012 14:00</date>
+			<height>99</height>
+			<volume>1.29</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bečva">
+		<lg name="LG Teplice nad Bečvou">
+			<date>27.09.2012 15:49</date>
+			<height>54</height>
+			<volume>2.17</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dluhonice">
+			<date>27.09.2012 15:45</date>
+			<height>111</height>
+			<volume>2.36</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Blanice">
+		<lg name="LG Blanický mlýn">
+			<date>26.09.2012 14:00</date>
+			<height>33</height>
+			<volume>0.38</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Podedvorský mlýn">
+			<date>26.09.2012 14:00</date>
+			<height>38</height>
+			<volume>0.80</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD Husinec">
+			<date>26.09.2012 14:00</date>
+			<height>28</height>
+			<volume>1.00</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Bavorov">
+			<date>26.09.2012 14:30</date>
+			<height>78</height>
+			<volume>2.06</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Heřmaň">
+			<date>26.09.2012 14:00</date>
+			<height>29</height>
+			<volume>2.50</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Louňovice">
+			<date>26.09.2012 14:20</date>
+			<height>106</height>
+			<volume>0.42</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Radonice - Zdebudeves">
+			<date>26.09.2012 14:20</date>
+			<height>101</height>
+			<volume>0.66</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Borovský potok">
+		<lg name="LG Stříbrné Hory">
+			<date>26.09.2012 14:00</date>
+			<height>48</height>
+			<volume>0.15</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Branná">
+		<lg name="LG Jindřichov">
+			<date>27.09.2012 15:49</date>
+			<height>57</height>
+			<volume>0.59</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Brumovka">
+		<lg name="LG Brumov">
+			<date>27.09.2012 15:45</date>
+			<height>23</height>
+			<volume>0.06</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bystřice">
+		<lg name="LG Ostrov">
+			<date>27.09.2012 15:40</date>
+			<height>7</height>
+			<volume>0.34</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Bystřička nad přehradou">
+			<date>27.09.2012 15:49</date>
+			<height>3</height>
+			<volume>0.09</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Bystřička pod přehradou">
+			<date>27.09.2012 15:50</date>
+			<height>28</height>
+			<volume>0.15</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Rohoznice">
+			<date> 27.09.2012 15:45 </date>
+			<height>24</height>
+			<volume>0.045</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bílina">
+		<lg name="LG Bílina ČD">
+			<date>27.09.2012 15:40</date>
+			<height>92</height>
+			<volume>2.13</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Trmice">
+			<date>27.09.2012 15:40</date>
+			<height>116</height>
+			<volume>2.68</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bílý potok">
+		<lg name="LG Bílý potok">
+			<date>27.09.2012 15:40</date>
+			<height>22</height>
+			<volume>0.09</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Bělá">
+		<lg name="LG Radětín">
+			<date>26.09.2012 14:30</date>
+			<height>37</height>
+			<volume>0.50</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Jedlová v Orlických horách">
+			<date> 27.09.2012 15:00 </date>
+			<height>21</height>
+			<volume>0.277</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Chomutovka">
+		<lg name="LG III.mlýn">
+			<date>27.09.2012 15:40</date>
+			<height>18</height>
+			<volume>0.11</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Chotýšanka">
+		<lg name="LG Slověnice">
+			<date>26.09.2012 14:20</date>
+			<height>5</height>
+			<volume>0.15</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Chrudimka">
+		<lg name="LG Hamry">
+			<date> 27.09.2012 15:45 </date>
+			<height>5</height>
+			<volume>0.112</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nemošice">
+			<date> 27.09.2012 15:10 </date>
+			<height>46</height>
+			<volume>2.088</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Padrty">
+			<date> 27.09.2012 15:30 </date>
+			<height>79</height>
+			<volume>1.629</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Přemilov">
+			<date> 27.09.2012 15:45 </date>
+			<height>69</height>
+			<volume>1.003</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Svídnice">
+			<date> 27.09.2012 15:45 </date>
+			<height>24</height>
+			<volume>1.697</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Chvalšinský potok">
+		<lg name="LG Chvalšiny">
+			<date>26.09.2012 13:30</date>
+			<height>17</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Cidlina">
+		<lg name="LG Jičín">
+			<date> 27.09.2012 15:10 </date>
+			<height>6</height>
+			<volume>0.047</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nový Bydžov">
+			<date> 27.09.2012 15:20 </date>
+			<height>26</height>
+			<volume>0.589</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Sány">
+			<date> 27.09.2012 15:00 </date>
+			<height>29</height>
+			<volume>1.424</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Desná">
+		<lg name="LG Šumperk">
+			<date>27.09.2012 15:49</date>
+			<height>72</height>
+			<volume>0.93</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Divoká Orlice">
+		<lg name="LG Kostelec nad Orlicí">
+			<date> 27.09.2012 15:10 </date>
+			<height>22</height>
+			<volume>2.846</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nekoř">
+			<date> 27.09.2012 15:45 </date>
+			<height>21</height>
+			<volume>1.941</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Orlické Záhoří">
+			<date> 27.09.2012 15:10 </date>
+			<height>7</height>
+			<volume>0.317</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Doubrava">
+		<lg name="LG Bílek">
+			<date> 27.09.2012 15:20 </date>
+			<height>42</height>
+			<volume>0.436</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Pařížov">
+			<date> 27.09.2012 15:45 </date>
+			<height>11</height>
+			<volume>0.311</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Žleby">
+			<date> 27.09.2012 15:10 </date>
+			<height>28</height>
+			<volume>0.572</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Dračice">
+		<lg name="LG Klikov">
+			<date>26.09.2012 13:10</date>
+			<height>58</height>
+			<volume>0.78</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Dyje">
+		<lg name="LG Podhradí">
+			<date>27.09.2012 15:47</date>
+			<height>44</height>
+			<volume>2.90</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Vranov-Hamry">
+			<date>27.09.2012 15:53</date>
+			<height>56</height>
+			<volume>2.94</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Znojmo pod přehradou">
+			<date>27.09.2012 15:53</date>
+			<height>78</height>
+			<volume>4.07</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Hevlín">
+			<date>27.09.2012 15:50</date>
+			<height>24</height>
+			<volume>4.76</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nové Mlýny">
+			<date>27.09.2012 15:51</date>
+			<height>239</height>
+			<volume>-1</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Ladná">
+			<date>27.09.2012 15:48</date>
+			<height>26</height>
+			<volume>13.32</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Dědina">
+		<lg name="LG Chábory">
+			<date> 27.09.2012 15:10 </date>
+			<height>24</height>
+			<volume>0.215</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Mitrov">
+			<date> 27.09.2012 15:10 </date>
+			<height>29</height>
+			<volume>0.590</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Dřevnice">
+		<lg name="LG Kašava">
+			<date>27.09.2012 15:47</date>
+			<height>32</height>
+			<volume>0.04</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Slušovice pod přehradou">
+			<date>27.09.2012 15:46</date>
+			<height>8</height>
+			<volume>0.05</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Zlín">
+			<date>27.09.2012 15:51</date>
+			<height>17</height>
+			<volume>0.22</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Flájský potok">
+		<lg name="LG Český Jiřetín">
+			<date>27.09.2012 15:40</date>
+			<height>37</height>
+			<volume>0.12</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Fryštácký potok">
+		<lg name="LG Výlanta">
+			<date>27.09.2012 15:45</date>
+			<height>21</height>
+			<volume>0.06</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Fryšták – pod přehradou">
+			<date>27.09.2012 15:45</date>
+			<height>2</height>
+			<volume>0.03</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Fryšávka">
+		<lg name="LG Jimramov">
+			<date>27.09.2012 15:49</date>
+			<height>30</height>
+			<volume>0.21</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Hamerský potok">
+		<lg name="LG Oldříš">
+			<date>26.09.2012 14:00</date>
+			<height>44</height>
+			<volume>2.62</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Planá">
+			<date>26.09.2012 14:10</date>
+			<height>9</height>
+			<volume>0.37</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Hloučela">
+		<lg name="LG Soběsuky">
+			<date>27.09.2012 15:45</date>
+			<height>2</height>
+			<volume>0.05</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jankovský potok">
+		<lg name="LG Milotice">
+			<date>26.09.2012 14:30</date>
+			<height>61</height>
+			<volume>0.68</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Januštica">
+		<lg name="LG Dolní Ves">
+			<date>27.09.2012 15:45</date>
+			<height>4</height>
+			<volume>0.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Javorka">
+		<lg name="LG Lázně Bělohrad">
+			<date> 27.09.2012 15:10 </date>
+			<height>20</height>
+			<volume>0.129</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jevišovka">
+		<lg name="LG Hrušovany nad Jeviš.">
+			<date>27.09.2012 15:47</date>
+			<height>17</height>
+			<volume>0.49</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Výrovice">
+			<date>27.09.2012 15:45</date>
+			<height>18</height>
+			<volume>0.15</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jeřice">
+		<lg name="LG Mníšek">
+			<date> 27.09.2012 15:45 </date>
+			<height>14</height>
+			<volume>0.255</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jihlava">
+		<lg name="LG Dvorce">
+			<date>27.09.2012 15:51</date>
+			<height>19</height>
+			<volume>0.54</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Třebíč-Ptáčov">
+			<date>27.09.2012 15:49</date>
+			<height>52</height>
+			<volume>1.24</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Mohelno">
+			<date>27.09.2012 15:51</date>
+			<height>61</height>
+			<volume>2.26</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Ivančice">
+			<date>27.09.2012 15:51</date>
+			<height>114</height>
+			<volume>2.95</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Přibice">
+			<date>27.09.2012 15:48</date>
+			<height>34</height>
+			<volume>2.14</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jizera">
+		<lg name="LG Bakov nad Jizerou">
+			<date> 27.09.2012 15:10 </date>
+			<height>136</height>
+			<volume>7.450</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dolní Sytová">
+			<date> 27.09.2012 15:45 </date>
+			<height>38</height>
+			<volume>2.955</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Jablonec nad Jizerou">
+			<date> 27.09.2012 15:10 </date>
+			<height>7</height>
+			<volume>1.488</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Železný Brod">
+			<date> 27.09.2012 15:10 </date>
+			<height>108</height>
+			<volume>4.874</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Jizerka">
+		<lg name="LG Dolní Štěpanice">
+			<date> 27.09.2012 15:45 </date>
+			<height>70</height>
+			<volume>0.283</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Juhyně">
+		<lg name="LG Rajnochovice">
+			<date>27.09.2012 15:30</date>
+			<height>5</height>
+			<volume>0.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Kamenice">
+		<lg name="LG Srbská Kamenice">
+			<date>27.09.2012 15:40</date>
+			<height>25</height>
+			<volume>0.55</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Plavy">
+			<date> 27.09.2012 15:45 </date>
+			<height>32</height>
+			<volume>1.332</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Klabava">
+		<lg name="LG Hrádek u Rokycan">
+			<date>26.09.2012 14:10</date>
+			<height>28</height>
+			<volume>0.31</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nová Huť">
+			<date>26.09.2012 14:10</date>
+			<height>29</height>
+			<volume>0.50</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Kněžná">
+		<lg name="LG Rychnov nad Kněžnou">
+			<date> 27.09.2012 15:30 </date>
+			<height>5</height>
+			<volume>0.179</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Kocába">
+		<lg name="LG Štěchovice">
+			<date>26.09.2012 14:00</date>
+			<height>40</height>
+			<volume>0.19</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Kosový potok">
+		<lg name="LG Svahy-Třebel">
+			<date>26.09.2012 14:10</date>
+			<height>12</height>
+			<volume>0.34</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Kyjovka">
+		<lg name="LG Koryčany nad přehradou">
+			<date>27.09.2012 13:55</date>
+			<height>26</height>
+			<volume>0.02</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Koryčany pod přehradou">
+			<date>27.09.2012 15:46</date>
+			<height>16</height>
+			<volume>0.03</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Křemelná">
+		<lg name="LG Stodůlky">
+			<date>26.09.2012 14:00</date>
+			<height>33</height>
+			<volume>2.27</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Křemžský potok">
+		<lg name="LG Brloh">
+			<date>26.09.2012 13:30</date>
+			<height>17</height>
+			<volume>0.23</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Křetínka">
+		<lg name="LG Prostřední Poříčí">
+			<date>27.09.2012 15:49</date>
+			<height>7</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Labe">
+		<lg name="LG Brandýs nad Labem">
+			<date> 27.09.2012 15:45 </date>
+			<height>137</height>
+			<volume>39.00</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Brod">
+			<date> 27.09.2012 15:30 </date>
+			<height>156</height>
+			<volume>2.172</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Labská">
+			<date> 27.09.2012 15:45 </date>
+			<height>18</height>
+			<volume>1.156</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Les Království">
+			<date> 27.09.2012 15:45 </date>
+			<height>34</height>
+			<volume>3.150</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Litoměřice">
+			<date> 27.09.2012 15:45 </date>
+			<height>257</height>
+			<volume>-1</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Mělník">
+			<date> 27.09.2012 14:45 </date>
+			<height>256</height>
+			<volume>135.0</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Němčice">
+			<date> 27.09.2012 15:00 </date>
+			<height>78</height>
+			<volume>17.22</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nymburk">
+			<date> 27.09.2012 15:10 </date>
+			<height>186</height>
+			<volume>35.00</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Přelouč">
+			<date> 27.09.2012 15:10 </date>
+			<height>61</height>
+			<volume>26.86</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Špindlerův Mlýn">
+			<date> 27.09.2012 15:45 </date>
+			<height>94</height>
+			<volume>0.789</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Ústí nad Labem">
+			<date> 27.09.2012 15:10 </date>
+			<height>192</height>
+			<volume>170.6</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Vestřev">
+			<date> 27.09.2012 15:20 </date>
+			<height>18</height>
+			<volume>1.612</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Libocký potok">
+		<lg name="LG Horka - odtok">
+			<date>27.09.2012 15:40</date>
+			<height>19</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Litavka">
+		<lg name="LG Příbram">
+			<date>26.09.2012 12:00</date>
+			<height>9</height>
+			<volume>0.03</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Čenkov">
+			<date>26.09.2012 14:20</date>
+			<height>16</height>
+			<volume>0.55</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Beroun L">
+			<date>26.09.2012 14:20</date>
+			<height>41</height>
+			<volume>1.11</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Loděnice">
+		<lg name="LG Loděnice">
+			<date>26.09.2012 14:00</date>
+			<height>48</height>
+			<volume>0.24</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Lomnice">
+		<lg name="LG Blatná">
+			<date>26.09.2012 14:00</date>
+			<height>9</height>
+			<volume>0.29</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dolní Ostrovec">
+			<date>26.09.2012 14:00</date>
+			<height>66</height>
+			<volume>2.07</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Loupnice">
+		<lg name="LG Janov - odtok">
+			<date>27.09.2012 15:40</date>
+			<height>6</height>
+			<volume>0.03</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Loučná">
+		<lg name="LG Cerekvice nad Loučnou">
+			<date> 27.09.2012 15:10 </date>
+			<height>32</height>
+			<volume>0.535</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dašice">
+			<date> 27.09.2012 15:00 </date>
+			<height>82</height>
+			<volume>1.394</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Litomyšl">
+			<date> 27.09.2012 15:30 </date>
+			<height>20</height>
+			<volume>0.052</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Lukovský potok">
+		<lg name="LG Kostelec">
+			<date>27.09.2012 15:45</date>
+			<height>6</height>
+			<volume>0.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Lutonínka">
+		<lg name="LG Vizovice">
+			<date>27.09.2012 14:35</date>
+			<height>10</height>
+			<volume>0.04</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Lužická Nisa">
+		<lg name="LG Hrádek nad Nisou">
+			<date> 27.09.2012 14:50 </date>
+			<height>16</height>
+			<volume>1.496</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Liberec">
+			<date> 27.09.2012 15:20 </date>
+			<height>37</height>
+			<volume>1.126</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Proseč nad Nisou">
+			<date> 27.09.2012 15:30 </date>
+			<height>15</height>
+			<volume>0.491</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Lužnice">
+		<lg name="LG Nová Ves">
+			<date>26.09.2012 14:30</date>
+			<height>79</height>
+			<volume>-1</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Pilař">
+			<date>26.09.2012 14:00</date>
+			<height>161</height>
+			<volume>5.43</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Kazdovna">
+			<date>26.09.2012 14:00</date>
+			<height>47</height>
+			<volume>0.42</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Frahelž">
+			<date>26.09.2012 14:00</date>
+			<height>78</height>
+			<volume>9.07</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Klenovice">
+			<date>26.09.2012 14:00</date>
+			<height>97</height>
+			<volume>24.71</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Bechyně">
+			<date>26.09.2012 14:00</date>
+			<height>153</height>
+			<volume>26.90</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Malé Labe">
+		<lg name="LG Horní Lánov">
+			<date> 27.09.2012 15:30 </date>
+			<height>3</height>
+			<volume>0.082</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Malše">
+		<lg name="LG Kaplice">
+			<date>26.09.2012 14:00</date>
+			<height>12</height>
+			<volume>1.17</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Pořešín">
+			<date>26.09.2012 14:10</date>
+			<height>39</height>
+			<volume>4.15</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Římov">
+			<date>26.09.2012 14:00</date>
+			<height>15</height>
+			<volume>2.36</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Roudné">
+			<date>26.09.2012 14:00</date>
+			<height>37</height>
+			<volume>4.67</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Mandava">
+		<lg name="LG Varnsdorf">
+			<date>27.09.2012 15:40</date>
+			<height>19</height>
+			<volume>0.21</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Mastník">
+		<lg name="LG Radíč">
+			<date>26.09.2012 14:00</date>
+			<height>11</height>
+			<volume>0.19</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Metuje">
+		<lg name="LG Hronov">
+			<date> 27.09.2012 15:10 </date>
+			<height>14</height>
+			<volume>1.136</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Krčín">
+			<date> 27.09.2012 15:10 </date>
+			<height>22</height>
+			<volume>1.702</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Maršov nad Metují">
+			<date> 27.09.2012 15:10 </date>
+			<height>32</height>
+			<volume>0.628</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Milevský potok">
+		<lg name="LG Milevsko">
+			<date>26.09.2012 14:30</date>
+			<height>58</height>
+			<volume>0.31</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Mochtínský potok">
+		<lg name="LG Sobětice">
+			<date>26.09.2012 14:10</date>
+			<height>26</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Morava">
+		<lg name="LG Vlaské">
+			<date>27.09.2012 15:49</date>
+			<height>122</height>
+			<volume>0.49</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Raškov">
+			<date>27.09.2012 15:56</date>
+			<height>132</height>
+			<volume>1.74</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Moravičany">
+			<date>27.09.2012 15:50</date>
+			<height>79</height>
+			<volume>3.81</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Olomouc">
+			<date>27.09.2012 15:50</date>
+			<height>90</height>
+			<volume>6.64</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Kroměříž">
+			<date>27.09.2012 15:50</date>
+			<height>101</height>
+			<volume>10.18</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Spytihněv">
+			<date>27.09.2012 15:50</date>
+			<height>81</height>
+			<volume>12.86</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Strážnice">
+			<date>27.09.2012 15:50</date>
+			<height>99</height>
+			<volume>11.86</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Lanžhot">
+			<date>27.09.2012 15:46</date>
+			<height>27</height>
+			<volume>14.08</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="Otrokovice – lávka">
+			<date>27.09.2012 15:45</date>
+			<height>41</height>
+			<volume>-1</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Moravská Dyje">
+		<lg name="LG Janov">
+			<date>27.09.2012 15:52</date>
+			<height>32</height>
+			<volume>0.56</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Moravská Sázava">
+		<lg name="LG Lupěné">
+			<date>27.09.2012 15:46</date>
+			<height>34</height>
+			<volume>0.88</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Mrlina">
+		<lg name="LG Vestec">
+			<date> 27.09.2012 15:10 </date>
+			<height>17</height>
+			<volume>0.338</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Mže">
+		<lg name="LG odtok VD Lučina">
+			<date>26.09.2012 14:40</date>
+			<height>40</height>
+			<volume>0.37</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Kočov">
+			<date>26.09.2012 14:30</date>
+			<height>31</height>
+			<volume>1.08</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Stříbro M">
+			<date>26.09.2012 14:40</date>
+			<height>41</height>
+			<volume>1.51</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD Hracholusky">
+			<date>26.09.2012 14:30</date>
+			<height>44</height>
+			<volume>2.68</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Nežárka">
+		<lg name="LG Rodvínov">
+			<date>26.09.2012 14:00</date>
+			<height>19</height>
+			<volume>0.62</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Lásenice">
+			<date>26.09.2012 14:00</date>
+			<height>78</height>
+			<volume>5.91</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Hamr">
+			<date>26.09.2012 14:00</date>
+			<height>150</height>
+			<volume>10.70</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Novohradka">
+		<lg name="LG Luže">
+			<date> 27.09.2012 15:10 </date>
+			<height>31</height>
+			<volume>0.247</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Úhřetice">
+			<date> 27.09.2012 15:10 </date>
+			<height>49</height>
+			<volume>0.597</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Nová řeka">
+		<lg name="LG Mláka">
+			<date>26.09.2012 14:00</date>
+			<height>91</height>
+			<volume>6.81</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Odrava">
+		<lg name="LG Jesenice - odtok">
+			<date>27.09.2012 15:40</date>
+			<height>71</height>
+			<volume>2.61</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Ohře">
+		<lg name="LG Cheb">
+			<date>27.09.2012 15:40</date>
+			<height>43</height>
+			<volume>1.89</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Citice">
+			<date>27.09.2012 15:40</date>
+			<height>78</height>
+			<volume>5.22</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Drahovice">
+			<date>27.09.2012 15:40</date>
+			<height>42</height>
+			<volume>7.90</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Stranná">
+			<date>27.09.2012 15:40</date>
+			<height>27</height>
+			<volume>10.30</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Louny">
+			<date>27.09.2012 15:40</date>
+			<height>171</height>
+			<volume>10.60</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Klášterec nad Ohří">
+			<date>27.09.2012 15:40</date>
+			<height>71</height>
+			<volume>8.00</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Žatec">
+			<date>27.09.2012 15:40</date>
+			<height>25</height>
+			<volume>10.50</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Louny">
+			<date> 27.09.2012 15:10 </date>
+			<height>169</height>
+			<volume>10.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Olšava">
+		<lg name="LG Uherský Brod">
+			<date>27.09.2012 15:45</date>
+			<height>68</height>
+			<volume>0.18</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Orlice">
+		<lg name="LG Týniště nad Orlicí">
+			<date> 27.09.2012 15:00 </date>
+			<height>55</height>
+			<volume>4.680</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Oslava">
+		<lg name="LG Dolní Bory">
+			<date>27.09.2012 15:48</date>
+			<height>31</height>
+			<volume>1.60</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Mostiště pod přehradou">
+			<date>27.09.2012 15:48</date>
+			<height>25</height>
+			<volume>0.28</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Velké Meziříčí">
+			<date>27.09.2012 15:49</date>
+			<height>14</height>
+			<volume>0.64</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Oslavany">
+			<date>27.09.2012 15:51</date>
+			<height>68</height>
+			<volume>0.79</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Ostružná">
+		<lg name="LG Kolínec">
+			<date>26.09.2012 14:00</date>
+			<height>28</height>
+			<volume>0.54</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Otava">
+		<lg name="LG Rejštejn">
+			<date>26.09.2012 14:00</date>
+			<height>67</height>
+			<volume>5.95</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Sušice">
+			<date>26.09.2012 14:00</date>
+			<height>36</height>
+			<volume>6.14</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Katovice">
+			<date>26.09.2012 14:00</date>
+			<height>53</height>
+			<volume>7.37</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Písek">
+			<date>26.09.2012 13:00</date>
+			<height>74</height>
+			<volume>13.90</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Ploučnice">
+		<lg name="LG Stráž pod Ralskem - město">
+			<date>27.09.2012 15:40</date>
+			<height>43</height>
+			<volume>0.95</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Česká Lípa">
+			<date>27.09.2012 15:40</date>
+			<height>21</height>
+			<volume>3.37</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Mimoň">
+			<date>27.09.2012 15:40</date>
+			<height>40</height>
+			<volume>2.72</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Benešov nad Ploučnicí">
+			<date>27.09.2012 15:40</date>
+			<height>72</height>
+			<volume>6.05</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Polečnice">
+		<lg name="LG Novosedly">
+			<date>26.09.2012 14:30</date>
+			<height>25</height>
+			<volume>0.38</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Český Krumlov">
+			<date>26.09.2012 14:00</date>
+			<height>8</height>
+			<volume>0.46</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Radbuza">
+		<lg name="LG Tasnovice">
+			<date>26.09.2012 14:10</date>
+			<height>28</height>
+			<volume>0.39</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Staňkov">
+			<date>26.09.2012 14:00</date>
+			<height>30</height>
+			<volume>1.31</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Lhota">
+			<date>26.09.2012 14:10</date>
+			<height>41</height>
+			<volume>1.60</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD České Údolí">
+			<date>26.09.2012 14:30</date>
+			<height>37</height>
+			<volume>2.56</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Robečský potok">
+		<lg name="LG Zahrádky">
+			<date>27.09.2012 06:00</date>
+			<height>45</height>
+			<volume>0.75</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Rokytná">
+		<lg name="LG Moravský Krumlov">
+			<date>27.09.2012 15:49</date>
+			<height>9</height>
+			<volume>0.23</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Rolava">
+		<lg name="LG Stará Role">
+			<date>27.09.2012 15:40</date>
+			<height>17</height>
+			<volume>0.63</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Rožnovská Bečva">
+		<lg name="LG Valašské Meziříčí">
+			<date>27.09.2012 15:46</date>
+			<height>87</height>
+			<volume>0.35</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Rusava">
+		<lg name="LG Chomýž">
+			<date>27.09.2012 11:15</date>
+			<height>0</height>
+			<volume>0.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Skalice">
+		<lg name="LG Zadní Poříčí">
+			<date>26.09.2012 14:30</date>
+			<height>54</height>
+			<volume>0.42</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Varvažov">
+			<date>26.09.2012 14:00</date>
+			<height>85</height>
+			<volume>1.75</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Smutná">
+		<lg name="LG Božetice">
+			<date>26.09.2012 14:30</date>
+			<height>73</height>
+			<volume>0.09</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Rataje">
+			<date>26.09.2012 14:00</date>
+			<height>65</height>
+			<volume>0.09</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Smědá">
+		<lg name="LG Bílý Potok">
+			<date> 27.09.2012 15:20 </date>
+			<height>10</height>
+			<volume>0.233</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Frýdlant">
+			<date> 27.09.2012 15:10 </date>
+			<height>12</height>
+			<volume>0.985</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Předlánce">
+			<date> 27.09.2012 15:10 </date>
+			<height>14</height>
+			<volume>1.370</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Spůlka">
+		<lg name="LG Bohumilice">
+			<date>26.09.2012 14:00</date>
+			<height>89</height>
+			<volume>0.59</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Stanovnice">
+		<lg name="LG Karolinka pod přehradou">
+			<date>27.09.2012 15:52</date>
+			<height>18</height>
+			<volume>0.04</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Stropnice">
+		<lg name="LG odtok VD Humenice">
+			<date>26.09.2012 14:30</date>
+			<height>15</height>
+			<volume>0.13</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Borovany">
+			<date>26.09.2012 14:30</date>
+			<height>76</height>
+			<volume>1.60</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Pašínovice-Komařice">
+			<date>26.09.2012 14:00</date>
+			<height>29</height>
+			<volume>1.75</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Stroupinský potok">
+		<lg name="LG Hředle">
+			<date>26.09.2012 14:00</date>
+			<height>23</height>
+			<volume>0.15</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Studená Vltava">
+		<lg name="LG Černý Kříž">
+			<date>26.09.2012 14:30</date>
+			<height>33</height>
+			<volume>1.00</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Stěnava">
+		<lg name="LG Meziměstí">
+			<date> 27.09.2012 15:20 </date>
+			<height>20</height>
+			<volume>0.201</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Otovice">
+			<date> 27.09.2012 15:10 </date>
+			<height>43</height>
+			<volume>0.621</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Střela">
+		<lg name="LG odtok VD Žlutice">
+			<date>26.09.2012 14:40</date>
+			<height>22</height>
+			<volume>0.25</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Čichořice">
+			<date>26.09.2012 14:10</date>
+			<height>19</height>
+			<volume>0.37</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Plasy">
+			<date>26.09.2012 14:10</date>
+			<height>25</height>
+			<volume>0.62</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Svatava">
+		<lg name="LG Svatava">
+			<date>27.09.2012 15:40</date>
+			<height>23</height>
+			<volume>1.26</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Kraslice">
+			<date>27.09.2012 15:40</date>
+			<height>12</height>
+			<volume>0.49</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Svitava">
+		<lg name="LG Letovice">
+			<date>27.09.2012 15:47</date>
+			<height>36</height>
+			<volume>1.79</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Bílovice nad Svitavou">
+			<date>27.09.2012 15:50</date>
+			<height>78</height>
+			<volume>1.32</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Svitávka">
+		<lg name="LG Zákupy">
+			<date>27.09.2012 15:40</date>
+			<height>45</height>
+			<volume>0.36</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Svratka">
+		<lg name="LG Borovnice">
+			<date>27.09.2012 15:50</date>
+			<height>59</height>
+			<volume>0.36</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dalečín">
+			<date>27.09.2012 15:46</date>
+			<height>37</height>
+			<volume>0.55</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Vír-pod přehr.">
+			<date>27.09.2012 15:50</date>
+			<height>42</height>
+			<volume>3.06</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Veverská Bítýška">
+			<date>27.09.2012 15:49</date>
+			<height>121</height>
+			<volume>3.90</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Brno-Poříčí">
+			<date>27.09.2012 15:55</date>
+			<height>40</height>
+			<volume>1.90</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Židlochovice">
+			<date>27.09.2012 15:32</date>
+			<height>66</height>
+			<volume>7.15</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Sázava">
+		<lg name="LG Žďár nad Sázavou">
+			<date>26.09.2012 14:20</date>
+			<height>13</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Sázava u Žďáru">
+			<date>26.09.2012 14:00</date>
+			<height>11</height>
+			<volume>0.28</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Pohledští Dvořáci - Havlíčkův Brod">
+			<date>26.09.2012 14:20</date>
+			<height>23</height>
+			<volume>0.72</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Chlístov">
+			<date>26.09.2012 14:20</date>
+			<height>10</height>
+			<volume>1.31</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Světlá nad Sázavou">
+			<date>26.09.2012 14:20</date>
+			<height>30</height>
+			<volume>2.36</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Zruč nad Sázavou">
+			<date>26.09.2012 14:20</date>
+			<height>67</height>
+			<volume>2.79</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Kácov">
+			<date>26.09.2012 14:20</date>
+			<height>78</height>
+			<volume>4.38</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Český Šternberk">
+			<date>26.09.2012 14:30</date>
+			<height>1</height>
+			<volume>0.39</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Nespeky">
+			<date>26.09.2012 14:30</date>
+			<height>35</height>
+			<volume>3.86</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Sázavka">
+		<lg name="LG Josefodol">
+			<date>26.09.2012 14:00</date>
+			<height>14</height>
+			<volume>0.34</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Teplá">
+		<lg name="LG Podhora">
+			<date>27.09.2012 15:40</date>
+			<height>23</height>
+			<volume>0.05</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Teplička">
+			<date>27.09.2012 15:40</date>
+			<height>5</height>
+			<volume>0.30</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Březová - odtok">
+			<date>27.09.2012 15:40</date>
+			<height>5</height>
+			<volume>0.34</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Teplá Vltava">
+		<lg name="LG Lenora">
+			<date>26.09.2012 14:00</date>
+			<height>43</height>
+			<volume>1.52</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Chlum">
+			<date>26.09.2012 14:30</date>
+			<height>53</height>
+			<volume>3.07</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Tichá Orlice">
+		<lg name="LG Čermná nad Orlicí">
+			<date> 27.09.2012 15:10 </date>
+			<height>30</height>
+			<volume>2.250</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Dolní Libchavy">
+			<date> 27.09.2012 15:10 </date>
+			<height>21</height>
+			<volume>1.304</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Lichkov">
+			<date> 27.09.2012 15:45 </date>
+			<height>4</height>
+			<volume>0.640</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Trnava">
+		<lg name="LG Červená Řečice">
+			<date>26.09.2012 14:30</date>
+			<height>51</height>
+			<volume>1.10</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Želiv - Kocanda">
+			<date>26.09.2012 14:40</date>
+			<height>13</height>
+			<volume>0.76</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Třebovka">
+		<lg name="LG Hylváty">
+			<date> 27.09.2012 15:10 </date>
+			<height>26</height>
+			<volume>0.369</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Třebovice">
+			<date> 27.09.2012 15:15 </date>
+			<height>14</height>
+			<volume>0.049</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Třemošná">
+		<lg name="LG Nevřeň">
+			<date>26.09.2012 14:40</date>
+			<height>35</height>
+			<volume>0.03</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Velička">
+		<lg name="LG Hranice">
+			<date>27.09.2012 15:45</date>
+			<height>41</height>
+			<volume>0.04</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Vltava">
+		<lg name="LG Vyšší Brod">
+			<date>26.09.2012 14:30</date>
+			<height>82</height>
+			<volume>6.63</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Zátoň">
+			<date>26.09.2012 14:30</date>
+			<height>60</height>
+			<volume>12.30</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Spolí">
+			<date>26.09.2012 14:00</date>
+			<height>111</height>
+			<volume>13.30</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Březí">
+			<date>26.09.2012 14:00</date>
+			<height>57</height>
+			<volume>14.60</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG České Budějovice">
+			<date>26.09.2012 14:00</date>
+			<height>110</height>
+			<volume>21.16</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD Orlík">
+			<date>26.09.2012 14:30</date>
+			<height>282,51</height>
+			<volume>106.71</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD Slapy">
+			<date>26.09.2012 14:30</date>
+			<height>217,71</height>
+			<volume>69.97</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG odtok VD Vrané">
+			<date>26.09.2012 14:30</date>
+			<height>189,85</height>
+			<volume>95.04</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Praha - Malá Chuchle">
+			<date>26.09.2012 14:20</date>
+			<height>55</height>
+			<volume>83.18</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Praha - Na Františku">
+			<date>26.09.2012 14:20</date>
+			<height>252</height>
+			<volume>83.18</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Vraňany">
+			<date>26.09.2012 14:20</date>
+			<height>113</height>
+			<volume>94.94</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Vraňany">
+			<date> 27.09.2012 15:10 </date>
+			<height>116</height>
+			<volume>98.04</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Vlára">
+		<lg name="LG Popov">
+			<date>27.09.2012 15:45</date>
+			<height>57</height>
+			<volume>0.25</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Volyňka">
+		<lg name="LG Sudslavice">
+			<date>26.09.2012 14:00</date>
+			<height>37</height>
+			<volume>0.36</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Němětice">
+			<date>26.09.2012 14:00</date>
+			<height>65</height>
+			<volume>1.27</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Vrchlice">
+		<lg name="LG Vrchlice">
+			<date> 27.09.2012 15:45 </date>
+			<height>9</height>
+			<volume>0.028</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Vsetínská Bečva">
+		<lg name="LG Jarcová">
+			<date>27.09.2012 15:54</date>
+			<height>63</height>
+			<volume>2.01</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Vydra">
+		<lg name="LG Modrava">
+			<date>26.09.2012 14:00</date>
+			<height>53</height>
+			<volume>1.90</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Výrovka">
+		<lg name="LG Plaňany">
+			<date> 27.09.2012 15:10 </date>
+			<height>14</height>
+			<volume>0.357</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Zdobnice">
+		<lg name="LG Slatina nad Zdobnicí">
+			<date> 27.09.2012 15:10 </date>
+			<height>62</height>
+			<volume>0.552</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Zlatý potok">
+		<lg name="LG Hracholusky">
+			<date>26.09.2012 14:00</date>
+			<height>13</height>
+			<volume>0.22</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Zubřina">
+		<lg name="LG Domažlice">
+			<date>26.09.2012 14:30</date>
+			<height>28</height>
+			<volume>0.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úhlava">
+		<lg name="LG odtok VD Nýrsko">
+			<date>26.09.2012 14:00</date>
+			<height>13</height>
+			<volume>0.91</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Klatovy-Tajanov">
+			<date>26.09.2012 14:10</date>
+			<height>57</height>
+			<volume>1.92</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Přeštice">
+			<date>26.09.2012 13:40</date>
+			<height>21</height>
+			<volume>2.22</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Štěnovice">
+			<date>26.09.2012 14:10</date>
+			<height>52</height>
+			<volume>3.10</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úhlavka">
+		<lg name="LG Stříbro U">
+			<date>26.09.2012 14:10</date>
+			<height>23</height>
+			<volume>0.33</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úpa">
+		<lg name="LG Horní Maršov">
+			<date> 27.09.2012 15:10 </date>
+			<height>28</height>
+			<volume>1.038</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Zlíč">
+			<date> 27.09.2012 15:45 </date>
+			<height>39</height>
+			<volume>3.128</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úslava">
+		<lg name="LG Prádlo">
+			<date>26.09.2012 14:10</date>
+			<height>53</height>
+			<volume>0.83</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Ždírec">
+			<date>26.09.2012 14:10</date>
+			<height>35</height>
+			<volume>1.11</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Plzeň-Koterov">
+			<date>26.09.2012 14:00</date>
+			<height>22</height>
+			<volume>1.60</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úterský potok">
+		<lg name="LG Trpisty">
+			<date>26.09.2012 14:00</date>
+			<height>6</height>
+			<volume>0.07</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Úštěcký potok">
+		<lg name="LG Vědlice">
+			<date>27.09.2012 15:40</date>
+			<height>28</height>
+			<volume>0.33</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Černovický potok">
+		<lg name="LG Tučapy">
+			<date>26.09.2012 14:30</date>
+			<height>45</height>
+			<volume>0.32</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Černá">
+		<lg name="LG Líčov">
+			<date>26.09.2012 14:00</date>
+			<height>34</height>
+			<volume>0.81</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Černá Desná">
+		<lg name="LG Souš">
+			<date> 27.09.2012 15:45 </date>
+			<height>20</height>
+			<volume>0.144</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Černý potok">
+		<lg name="LG Klenčí">
+			<date>26.09.2012 14:30</date>
+			<height>10</height>
+			<volume>0.08</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Červený potok">
+		<lg name="LG Hořovice">
+			<date>26.09.2012 14:20</date>
+			<height>14</height>
+			<volume>0.26</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Šlapanka">
+		<lg name="LG Mírovka">
+			<date>26.09.2012 14:20</date>
+			<height>62</height>
+			<volume>0.40</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Želetavka">
+		<lg name="LG Jemnice">
+			<date>27.09.2012 15:46</date>
+			<height>34</height>
+			<volume>0.39</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+	<river name="Želivka">
+		<lg name="LG Čakovice">
+			<date>26.09.2012 14:30</date>
+			<height>43</height>
+			<volume>1.28</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Želiv-Vřesník">
+			<date>26.09.2012 14:20</date>
+			<height>95</height>
+			<volume>5.10</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Poříčí">
+			<date>26.09.2012 14:30</date>
+			<height>84</height>
+			<volume>6.96</volume>
+			<flood>0</flood>
+		</lg>
+		<lg name="LG Soutice">
+			<date>26.09.2012 14:30</date>
+			<height>21</height>
+			<volume>0.73</volume>
+			<flood>0</flood>
+		</lg>
+	</river>
+</data>
