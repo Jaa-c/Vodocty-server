@@ -31,7 +31,7 @@ abstract class AbstractParser  {
 			$string = preg_replace("/charset=$this->encoding/","charset=utf-8", $string);
 			//self::$zlo = preg_replace("/charset=$this->encoding/","charset=utf-8", self::$zlo);
 		}
-		$this->html = $string;                       
+		$this->html = $string; 
 	}
 	
 	protected abstract function parseData();

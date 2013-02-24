@@ -10,12 +10,17 @@
 ini_set("display_errors", 1);
 ini_set("html_errors", 1);
 
-error_reporting(E_ALL ^ E_WARNING);
+error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
 header('Content-type: text/plain; charset=utf-8');
 
 define('JAA', true);
 define('DATA_FOLDER', './data/');
 define('MAX_TIME', 2*7*24*60*60);
+
+
+if($_GET['cron'] != 13) {
+	exit;
+}
 
 /** vlozeni funkci pouzivanych vsude mozne */
 require_once "inc.php";
@@ -27,6 +32,7 @@ $rivers = array();
 
 $loader = new Loader($feeds);
 $loader->load($rivers);
+
 
 //echo "zpracovan rek: " . sizeof($rivers) . "\n";
 ksort($rivers);
