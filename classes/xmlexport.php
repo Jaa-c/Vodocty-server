@@ -48,15 +48,19 @@ class XMLExport  {
 	}
 	
 	
-	public function save($file) {
+	public function save($state, $file) {
 		if(strlen($this->result) < 60) {
 			echo "no new data";
 			return false;
 		}
 		
-		$name = DATA_FOLDER . $file . '.xml.gz';
-		var_dump(file_put_contents('compress.zlib://' . $name, $this->result));
-		echo 'created: ' . $name . "\n";
+		$name = DATA_FOLDER . $state . '/' .$file . '.xml.gz';
+		if(file_put_contents('compress.zlib://' . $name, $this->result)) {
+			echo 'created: ' . $name . "\n";
+		}
+		else {
+			echo 'failed creating: ' . $name . "\n";
+		}
 		return true;
 	}
  }

@@ -8,24 +8,19 @@ if(!defined('JAA')){header("Location: /");exit;}
  */
 class LogHandler  {
 
-	private $time;
-	
-	function __construct($time) {
-		$this->time = $time;
-	}
-
 	/**
 	 * Manages list of last files
 	 */
-	public function handle() {
+	public static function handle($state, $time) {
+		$path = DATA_FOLDER . $state . '/';
 		
-		$text = file_get_contents(DATA_FOLDER . 'last');
+		$text = file_get_contents($path . 'last.txt');
 		
 		//add new entry to the begining of file
-		$out = $this->time . ' ';
+		$out = $time . ' ';
 		
 		$files = explode(' ', $text);
-		$limit = $this->time - MAX_TIME;
+		$limit = $time - MAX_TIME;
 		$last = 0;
 		
 		//delete old files
@@ -37,7 +32,7 @@ class LogHandler  {
 			
 			if($file < $limit) {
 				unlink(DATA_FOLDER . $file. '.xml.gz');
-				echo "\n- deleted:" . DATA_FOLDER . $file. '.xml.gz';
+				echo "\n- deleted:" . $path . $file. '.xml.gz';
 			}
 			else {
 				$last = $file;
@@ -51,7 +46,7 @@ class LogHandler  {
 				break;
 			}
 		}
-		file_put_contents(DATA_FOLDER . 'last', $out);
+		file_put_contents($path . 'last.txt', $out);
 	}
 
 }

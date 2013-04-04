@@ -17,8 +17,8 @@ class Limnigraf  {
 	}
 	
 	public function setName($name) {
-		$this->name = str_replace('LG', '', $name);
-		$this->name = $this->tri($this->name);
+		$n = str_replace('LG ', '', $name);
+		$this->name = $this->tri($n);
 	}
 	public function getName() {
 		return $this->name;

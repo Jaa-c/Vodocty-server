@@ -8,13 +8,14 @@
  *
  */
 ini_set("display_errors", 1);
-ini_set("html_errors", 1);
+ini_set("html_errors", 0);
 
-error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
+//error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
+error_reporting(E_ALL);
 header('Content-type: text/plain; charset=utf-8');
 
 define('JAA', true);
-define('DATA_FOLDER', './data/');
+define('DATA_FOLDER', 'data/');
 define('MAX_TIME', 2*7*24*60*60);
 
 
@@ -25,31 +26,32 @@ if($_GET['cron'] != 13) {
 /** vlozeni funkci pouzivanych vsude mozne */
 require_once "inc.php";
 //vygenerovat ID souboru
-$feeds = Feeds::getFeeds();
+$allFeeds = Feeds::getFeeds();
 
 //pole rek [reka] => pole limigrafu
-$rivers = array();
-
-$loader = new Loader($feeds);
-$loader->load($rivers);
-
-
-//echo "zpracovan rek: " . sizeof($rivers) . "\n";
-ksort($rivers);
-
-$prev = file_get_contents(DATA_FOLDER . 'rivers');
-$prevRivers = unserialize($prev);
-
-$curr = serialize($rivers);
-file_put_contents(DATA_FOLDER . 'rivers', $curr);
-
-$xml = new XMLExport($rivers, $prevRivers);
-$time = time();
-$created= $xml->save($time); //ulozit zaznam s danym ID
-
-if($created) {
-	$log = new LogHandler($time);
-	$log->handle();
+foreach($allFeeds as $state => $feeds) {
+	$path = DATA_FOLDER . $state . '/';
+	$rivers = array();
+	
+	$loader = new Loader($feeds);
+	$loader->load($rivers);
+	
+	//echo "zpracovan rek: " . sizeof($rivers) . "\n";
+	ksort($rivers);
+	
+	$prev = file_get_contents($path . 'rivers');
+	$prevRivers = unserialize($prev);
+	
+	$curr = serialize($rivers);
+	file_put_contents($path . $curr);
+	
+	$xml = new XMLExport($rivers, $prevRivers);
+	$time = time();
+	$created= $xml->save($state, $time); //ulozit zaznam s danym ID
+	
+	if($created) {
+		LogHandler::handle($state, $time);
+	}
 }
 
 ?>

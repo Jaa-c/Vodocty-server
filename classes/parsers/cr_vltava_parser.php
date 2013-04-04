@@ -14,7 +14,7 @@ class Cr_vltava_parser extends AbstractParser {
 		
 		$xpath = new DOMXPath($dom);
 		$tags = $xpath->query("//table[@border='1']");
-
+		
 		$tempDom = new DomDocument();
 		foreach ($tags as $tag) {
 			$limnigraf = new Limnigraf(); 
