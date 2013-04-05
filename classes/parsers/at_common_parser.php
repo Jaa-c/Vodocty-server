@@ -39,7 +39,9 @@ class At_common_parser extends AbstractParser {
 			$limnigraf->setHeight(-1); // n/A
 			$limnigraf->setVolume($xp->query("//ehyd:wert")->item(0)->nodeValue);
 			
-			$limnigraf->setDate($xp->query("//ehyd:zp")->item(0)->nodeValue);
+			$date = new DateTime( $xp->query("//ehyd:zp")->item(0)->nodeValue);
+			
+			$limnigraf->setDate($date->format('d.m.Y H:i:s'));
 			
 			$this->data[] = $limnigraf;
 		}
