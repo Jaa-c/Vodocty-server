@@ -10,8 +10,8 @@
 ini_set("display_errors", 1);
 ini_set("html_errors", 0);
 
-//error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
-error_reporting(E_ALL);
+error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
+//error_reporting(0);
 header('Content-type: text/plain; charset=utf-8');
 
 define('JAA', true);
@@ -43,7 +43,7 @@ foreach($allFeeds as $state => $feeds) {
 	$prevRivers = unserialize($prev);
 	
 	$curr = serialize($rivers);
-	file_put_contents($path . $curr);
+	file_put_contents($path . 'rivers', $curr);
 	
 	$xml = new XMLExport($rivers, $prevRivers);
 	$time = time();

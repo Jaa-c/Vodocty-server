@@ -50,7 +50,7 @@ class XMLExport  {
 	
 	public function save($state, $file) {
 		if(strlen($this->result) < 60) {
-			echo "no new data";
+			echo $state . ": no new data\n";
 			return false;
 		}
 		

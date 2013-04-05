@@ -31,7 +31,8 @@ class LogHandler  {
 			}
 			
 			if($file < $limit) {
-				unlink(DATA_FOLDER . $file. '.xml.gz');
+				chmod($path . $file. '.xml.gz', 0777);
+				var_dump(unlink($path . $file. '.xml.gz'));
 				echo "\n- deleted:" . $path . $file. '.xml.gz';
 			}
 			else {
