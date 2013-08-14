@@ -32,7 +32,7 @@ class At_salzburg_parser extends AbstractParser {
 			preg_match('/[0-9\,]*/', $xp->query("//td[6]")->item(0)->nodeValue, $volume);
 			$limnigraf->setVolume($volume[0]);
 			
-			$limnigraf->setDate($xp->query("//td[3]")->item(0)->nodeValue);
+			$limnigraf->setDate(strtotime(str_replace("-", ".", $xp->query("//td[3]")->item(0)->nodeValue)));
 			
 			$this->data[] = $limnigraf;
 		}
