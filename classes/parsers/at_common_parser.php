@@ -41,7 +41,7 @@ class At_common_parser extends AbstractParser {
 			
 			$date = new DateTime( $xp->query("//ehyd:zp")->item(0)->nodeValue);
 			
-			$limnigraf->setDate($date->getTimestamp());
+			$limnigraf->setDate(strtotime($date->format('d-m-Y H:i:s')));
 			
 			$this->data[] = $limnigraf;
 		}
