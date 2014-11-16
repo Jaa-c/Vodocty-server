@@ -18,15 +18,12 @@ class At_salzburg_parser extends AbstractParser {
 		$tempDom = new DomDocument();
 		foreach ($tags as $tag) {
 			$limnigraf = new Limnigraf(); 
-			$tempDom->loadHTML($tag->C14N());
+			$tempDom->loadHTML(self::$zlo . $tag->C14N());
 			$xp = new DOMXPath($tempDom);
 					
 			$limnigraf->setRiver($xp->query("//td[2]")->item(0)->nodeValue);
 			$limnigraf->setName($xp->query("//td[1]")->item(0)->nodeValue);
-			
-			//if(is_numeric(trim($state->item(0)->nodeValue))) //todo
-				//$limnigraf->setFlood($state->item(0)->nodeValue);
-				
+							
 			preg_match('/[0-9]*/', $xp->query("//td[4]")->item(0)->nodeValue, $height);
 			$limnigraf->setHeight($height[0]);
 			preg_match('/[0-9\,]*/', $xp->query("//td[6]")->item(0)->nodeValue, $volume);

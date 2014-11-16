@@ -55,8 +55,8 @@ class XMLExport  {
 		}
 		
 		$name = DATA_FOLDER . $state . '/' .$file . '.xml.gz';
-		if(file_put_contents('compress.zlib://' . $name, $this->result)) {//compress.zlib://
-			echo 'created: ' . $name . "\n";                                           
+		if(file_put_contents('compress.zlib://' . $name, $this->result)) {
+			echo 'created: ' . $name . "\n";
 		}
 		else {
 			echo 'failed creating: ' . $name . "\n";

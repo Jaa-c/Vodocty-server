@@ -20,13 +20,20 @@ define('MAX_TIME', 2*7*24*60*60);
 
 
 if($_GET['cron'] != 13) {
+	header("Location: /html/");
 	exit;
 }
 
 /** vlozeni funkci pouzivanych vsude mozne */
 require_once "inc.php";
+require_once "db.php";
+
 //vygenerovat ID souboru
 $allFeeds = Feeds::getFeeds();
+
+$dbs = new DB();
+$db = $dbs->getDB();
+$db->query("DELETE FROM data WHERE date < NOW() - INTERVAL 2 WEEK");
 
 //pole rek [reka] => pole limigrafu
 foreach($allFeeds as $state => $feeds) {
@@ -45,9 +52,15 @@ foreach($allFeeds as $state => $feeds) {
 	$curr = serialize($rivers);
 	file_put_contents($path . 'rivers', $curr);
 	
+	//$sms = new SMSExport($rivers);
+	//$sms->save("sms");
+		
 	$xml = new XMLExport($rivers, $prevRivers);
 	$time = time();
 	$created= $xml->save($state, $time); //ulozit zaznam s danym ID
+	
+	$sql = new SQLExport($rivers);
+	$sql->save($state);
 	
 	if($created) {
 		LogHandler::handle($state, $time);

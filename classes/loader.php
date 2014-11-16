@@ -28,10 +28,10 @@ class Loader  {
 					//prodat podminku jestli je tam i limnigraf - vice parseru na stejne reky
 				//	$rivers[$limnigraf->getRiver()] = array();
 				//}
-				$rivers[$limnigraf->getRiver()][$limnigraf->getName()] = $limnigraf;
+				if($rivers[$limnigraf->getRiver()][$limnigraf->getName()] == NULL)
+				  $rivers[$limnigraf->getRiver()][$limnigraf->getName()] = $limnigraf;
 			}
 		}
-	
 	}
  }
 

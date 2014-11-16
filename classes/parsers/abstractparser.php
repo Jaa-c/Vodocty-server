@@ -16,15 +16,26 @@ abstract class AbstractParser  {
 	public function __construct($url, $encoding) {
 		$this->data = array();
 		$this->encoding = $encoding;
-		$this->get($url);
-		$this->parseData();
+		if(is_array($url)) {
+			$this->html = array();
+			foreach($url as $u) {
+				$this->get($u, true);
+			}
+		}
+		else
+			$this->get($url);
+		try {
+		  $this->parseData();
+		} catch (Exception $e) {
+		  echo "\n Error while parsing: " . $url . "\n";
+		}
 	}
 	
 	public function getData() {
 		return $this->data;
 	}
 	
-	private function get($url) {
+	private function get($url, $array = false) {
 		$options = array(
 			'http'=>array(
 				'method'=>"GET",
@@ -40,10 +51,13 @@ abstract class AbstractParser  {
 		$string = file_get_contents($url, false, $context);
 		if($this->encoding != 'utf-8') {
 			$string = iconv($this->encoding, 'utf-8', $string);
+			//$string = utf8_encode($string);
 			$string = preg_replace("/charset=$this->encoding/","charset=utf-8", $string);
-			//self::$zlo = preg_replace("/charset=$this->encoding/","charset=utf-8", self::$zlo);
 		}
-		$this->html = $string; 
+		if($array)
+			$this->html[] = $string; 
+		else
+			$this->html = $string; 
 	}
 	
 	protected abstract function parseData();
